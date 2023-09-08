@@ -9,17 +9,10 @@
 [x] Prettier formatter; [ref](https://prettier.io) 
 
 # Requirements
-1. Install [`nvm`](https://github.com/nvm-sh/nvm#installing-and-updating)
-2. Install `node` with `nvm`
-```
-$ nvm install 18.17.1
-$ nvm alias default 18.17.1
-# or
-$ nvm use
-```
-3. Install and configure emulators for `Android` and `iOS`, use Android Studio and Xcode
-4. Install Java, use [`sdkman`](https://sdkman.io/)
-5. Update the device name in the [configuration files](./configs)
+1. Install `node` with [`nvm`](https://github.com/nvm-sh/nvm#installing-and-updating) or run `nvm use`
+2. Install and configure emulators for `Android` and `iOS`, use Android Studio and Xcode
+3. Install Java, use [`sdkman`](https://sdkman.io/)
+4. Update the device name in the [configuration files](./configs)
 
 # Run
 ```
