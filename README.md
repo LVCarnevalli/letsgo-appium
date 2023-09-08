@@ -17,8 +17,8 @@ $ nvm alias default 18.17.1
 # or
 $ nvm use
 ```
-3. Install and configure emulators for `Android` and `iOS` 
-4. Install Java
+3. Install and configure emulators for `Android` and `iOS`, use Android Studio and Xcode
+4. Install Java, use [`sdkman`](https://sdkman.io/)
 5. Update the device name in the [configuration files](./configs)
 
 # Run
