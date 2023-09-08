@@ -10,8 +10,8 @@
 
 # Requirements
 1. Install `node` with [`nvm`](https://github.com/nvm-sh/nvm#installing-and-updating) or run `nvm use`
-2. Install and configure emulators for `Android` and `iOS`, use Android Studio and Xcode
-3. Install Java, use [`sdkman`](https://sdkman.io/)
+2. Install and configure emulators for `Android` and `iOS`, use `Android Studio` and `Xcode`
+3. Install `java`, use [`sdkman`](https://sdkman.io/)
 4. Update the device name in the [configuration files](./configs)
 
 # Run
